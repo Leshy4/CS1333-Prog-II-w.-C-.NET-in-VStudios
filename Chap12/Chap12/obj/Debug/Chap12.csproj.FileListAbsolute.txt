@@ -1,0 +1,12 @@
+E:\Programming 2\Chap12\Chap12\bin\Debug\Chap12.exe.config
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.csprojResolveAssemblyReference.cache
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.Form1.resources
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.Properties.Resources.resources
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.csproj.GenerateResource.Cache
+E:\Programming 2\Chap12\Chap12\bin\Debug\Chap12.exe
+E:\Programming 2\Chap12\Chap12\bin\Debug\Chap12.pdb
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.exe
+E:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.pdb
+D:\Programming 2\Chap12\Chap12\bin\Debug\Chap12.exe.config
+D:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.exe
+D:\Programming 2\Chap12\Chap12\obj\Debug\Chap12.pdb

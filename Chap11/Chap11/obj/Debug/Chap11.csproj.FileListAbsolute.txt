@@ -1,0 +1,11 @@
+E:\Programming 2\Chap11\Chap11\bin\Debug\Chap11.exe.config
+E:\Programming 2\Chap11\Chap11\bin\Debug\Chap11.exe
+E:\Programming 2\Chap11\Chap11\bin\Debug\Chap11.pdb
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.csprojResolveAssemblyReference.cache
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.Form1.resources
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.Properties.Resources.resources
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.csproj.GenerateResource.Cache
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.exe
+E:\Programming 2\Chap11\Chap11\obj\Debug\Chap11.pdb
+E:\Programming 2\Chap11\Chap11\bin\Debug\Boxes.dll
+E:\Programming 2\Chap11\Chap11\bin\Debug\Boxes.pdb
