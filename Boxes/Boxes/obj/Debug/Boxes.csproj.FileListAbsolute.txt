@@ -1,0 +1,4 @@
+E:\Programming 2\Boxes\Boxes\bin\Debug\Boxes.dll
+E:\Programming 2\Boxes\Boxes\bin\Debug\Boxes.pdb
+E:\Programming 2\Boxes\Boxes\obj\Debug\Boxes.dll
+E:\Programming 2\Boxes\Boxes\obj\Debug\Boxes.pdb
