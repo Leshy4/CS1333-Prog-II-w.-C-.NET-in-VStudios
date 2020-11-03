@@ -1,0 +1,15 @@
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\bin\Debug\Chap10_Ex3.exe.config
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.csprojResolveAssemblyReference.cache
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex2.Form1.resources
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.Properties.Resources.resources
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.csproj.GenerateResource.Cache
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\bin\Debug\Chap10_Ex3.exe
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\bin\Debug\Chap10_Ex3.pdb
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.exe
+D:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.pdb
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\bin\Debug\Chap10_Ex3.exe.config
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.exe
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.csprojResolveAssemblyReference.cache
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex2.Form1.resources
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.Properties.Resources.resources
+E:\Programming 2\Chap10_Ex1,2,3\Chap10_Ex3\Chap10_Ex3\obj\Debug\Chap10_Ex3.csproj.GenerateResource.Cache
