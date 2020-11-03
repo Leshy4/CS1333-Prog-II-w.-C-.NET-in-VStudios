@@ -1,0 +1,12 @@
+E:\Programming 2\Chap13\Chap13\bin\Debug\Chap13.exe.config
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.csprojResolveAssemblyReference.cache
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.Form1.resources
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.Properties.Resources.resources
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.csproj.GenerateResource.Cache
+E:\Programming 2\Chap13\Chap13\bin\Debug\Chap13.exe
+E:\Programming 2\Chap13\Chap13\bin\Debug\Chap13.pdb
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.exe
+E:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.pdb
+D:\Programming 2\Chap13\Chap13\bin\Debug\Chap13.exe.config
+D:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.exe
+D:\Programming 2\Chap13\Chap13\obj\Debug\Chap13.pdb
