@@ -1,0 +1,9 @@
+E:\Programming 2\Chap9\Chap9\bin\Debug\Chap9.exe.config
+E:\Programming 2\Chap9\Chap9\bin\Debug\Chap9.exe
+E:\Programming 2\Chap9\Chap9\bin\Debug\Chap9.pdb
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.csprojResolveAssemblyReference.cache
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.Form1.resources
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.Properties.Resources.resources
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.csproj.GenerateResource.Cache
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.exe
+E:\Programming 2\Chap9\Chap9\obj\Debug\Chap9.pdb
